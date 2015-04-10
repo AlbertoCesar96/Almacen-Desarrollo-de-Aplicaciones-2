@@ -1,0 +1,326 @@
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\EntityFramework.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Owin.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Providers.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebGrease.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\EntityFramework.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Providers.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\es\System.Web.Optimization.resources.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\es\EntityFramework.resources.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.resources.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\rodri_000\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Owin.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\System.Web.Providers.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\System.Web.Providers.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Owin.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\System.Web.Providers.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\System.Web.Providers.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\es\EntityFramework.resources.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.resources.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\RODRIGO\Downloads\WebApplication2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\EntityFramework.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Google.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Owin.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\System.Web.Providers.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\WebGrease.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\EntityFramework.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\System.Web.Providers.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Google.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\es\System.Web.Optimization.resources.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\es\EntityFramework.resources.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\es\EntityFramework.SqlServer.resources.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.resources.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.resources.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Google.resources.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+E:\último\WebApplication2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\último\WebApplication2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Owin.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\System.Web.Providers.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\System.Web.Providers.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Usuario\Desktop\WebApplication2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

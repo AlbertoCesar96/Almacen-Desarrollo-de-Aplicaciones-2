@@ -1,0 +1,137 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication2.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .nuevoEstilo1 {
+            font-family: Arial;
+            font-size: large;
+            background-color: #C0C0C0;
+        }
+        .auto-style1 {
+            width: 1624px;
+            height: 25px;
+        }
+        .nuevoEstilo2 {
+            font-family: Arial;
+            font-size: large;
+            text-align: left;
+            background-color: #000000;
+            color: #FFFFFF;
+            border-bottom-style: dashed;
+            border-bottom-width: 8px;
+            border-bottom-color: #3366CC;
+        }
+        .nuevoEstilo3 {
+            font-family: Arial;
+            font-size: large;
+            color: #FFFFFF;
+            text-align: left;
+            background-color: #000000;
+            border-bottom-style: dashed;
+            border-bottom-width: 5px;
+            border-bottom-color: #3366CC;
+            height: 50px;
+        }
+        .nuevoEstilo4 {
+            font-family: Arial;
+            font-size: large;
+            color: #FFFFFF;
+            text-align: left;
+            background-color: #000000;
+            border-bottom-style: inset;
+            border-bottom-width: 5px;
+            border-bottom-color: #3366CC;
+            height: 50px;
+        }
+        .nuevoEstilo5 {
+            font-family: Arial;
+            font-size: x-large;
+            color: #FFFFFF;
+            text-align: left;
+            background-color: #000000;
+            border-bottom-style: inset;
+            border-bottom-width: inherit;
+            border-bottom-color: #3366CC;
+        }
+        .auto-style3 {
+            width: 128px;
+            height: 128px;
+        }
+        .nuevoEstilo6 {
+            font-family: Arial;
+            font-size: large;
+            width: 150px;
+            height: 300px;
+        }
+        .nuevoEstilo7 {
+            font-family: Arial;
+            font-size: large;
+            width: 150px;
+            height: 300px;
+            text-align: left;
+            vertical-align: top;
+        }
+        .nuevoEstilo8 {
+            text-align: left;
+            vertical-align: top;
+        }
+        .auto-style4 {
+            font-family: Arial;
+            font-size: x-large;
+            color: #FFFFFF;
+            text-align: left;
+            background-color: #000000;
+            border-bottom-style: inset;
+            border-bottom-width: inherit;
+            border-bottom-color: #3366CC;
+            height: 91px;
+        }
+        .auto-style5
+        {
+            width: 440px;
+            height: 109px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table class="nuevoEstilo1">
+            <tr class="nuevoEstilo4">
+                <td class="auto-style4" colspan="2">Almacen</td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <img alt="" class="auto-style3" src="home.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img alt="" class="auto-style5" src="images.jpg" /></td>
+            </tr>
+            <tr>
+                <td class="nuevoEstilo7">Menu<br />
+                    <br />
+                    <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1">
+                    </asp:TreeView>
+                    <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+                </td>
+                <td class="auto-style1">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        <p style="height: 398px">
+                            <br />
+                        </p>
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">Copyright 2015 UCSM</td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>
